@@ -27,11 +27,6 @@ I'm a data scientist with a strong academic background in physiology and health 
 - Built visualizations using Power BI for health professionals and funders.  
 - Contributed to evidence-based decision-making on jaundice interventions.
 
-### 💉 Vaccine Hesitancy in Nigeria  
-*Self-led Research Analysis*  
-- Analyzed survey data to explore determinants of COVID-19 vaccine hesitancy.  
-- Applied logistic regression in Python to model population-level predictors.  
-- Delivered findings through concise visual reports for NGOs.
 
 ### 🧬 Hypertension Risk Prediction Using Herbal Therapy Study  
 *Machine Learning Research Project*  
@@ -88,8 +83,8 @@ I'm a data scientist with a strong academic background in physiology and health 
 
 I’m open to roles in data science, research analytics, and collaborative public health projects.
 
-📧 fope@example.com  
-📎 [LinkedIn](https://linkedin.com/in/fope)  
+📧 fopefoluwaotemoye@gmail.com 
+📎 [LinkedIn] https://www.linkedin.com/in/fopefoluwa-otemoye?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 📁 [Portfolio Website](https://fopefoluwa.dev)  
 📍 Lagos, Nigeria
 
